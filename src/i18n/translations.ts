@@ -11,6 +11,13 @@ export const translations = {
     allCategories: 'All',
     noMatches: 'No apps match this category.',
     allPlatforms: 'All',
+    feedbackTitle: 'Send feedback',
+    feedbackPlaceholder: "What's on your mind?",
+    feedbackCancel: 'Cancel',
+    feedbackSend: 'Send',
+    themeLight: 'Light',
+    themeDark: 'Dark',
+    themeSystem: 'System',
   },
   'zh-tw': {
     siteTitle: '應用程式清單',
@@ -22,6 +29,13 @@ export const translations = {
     allCategories: '全部',
     noMatches: '沒有符合此分類的應用程式。',
     allPlatforms: '全部',
+    feedbackTitle: '傳送意見回饋',
+    feedbackPlaceholder: '想說些什麼？',
+    feedbackCancel: '取消',
+    feedbackSend: '送出',
+    themeLight: '淺色',
+    themeDark: '深色',
+    themeSystem: '系統',
   },
 } satisfies Record<Locale, Record<string, string>>
 

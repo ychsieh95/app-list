@@ -3,10 +3,12 @@ import { apps } from './data/loadApps'
 import { useLocale } from './i18n/LocaleContext'
 import { LocaleSwitcher } from './components/LocaleSwitcher'
 import { ViewToggle, type ViewMode } from './components/ViewToggle'
+import { ThemeToggle } from './components/ThemeToggle'
 import { PlatformTabs } from './components/PlatformTabs'
 import { CategoryFilter } from './components/CategoryFilter'
 import { AppCard } from './components/AppCard'
 import { AppRow } from './components/AppRow'
+import { FeedbackButton } from './components/FeedbackButton'
 import type { Platform } from './types/app'
 
 const VIEW_STORAGE_KEY = 'app-list.view'
@@ -60,6 +62,7 @@ function App() {
         </div>
         <div className="site-controls">
           <ViewToggle mode={view} onChange={handleViewChange} />
+          <ThemeToggle />
           <LocaleSwitcher />
         </div>
       </header>
@@ -86,6 +89,8 @@ function App() {
           </div>
         )}
       </main>
+
+      <FeedbackButton />
     </div>
   )
 }
