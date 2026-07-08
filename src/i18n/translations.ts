@@ -18,6 +18,8 @@ export const translations = {
     themeLight: 'Light',
     themeDark: 'Dark',
     themeSystem: 'System',
+    footerCopyright: '© {year} App List',
+    footerSource: 'View source on GitHub',
   },
   'zh-tw': {
     siteTitle: '應用程式清單',
@@ -36,6 +38,8 @@ export const translations = {
     themeLight: '淺色',
     themeDark: '深色',
     themeSystem: '系統',
+    footerCopyright: '© {year} 應用程式清單',
+    footerSource: '在 GitHub 上查看原始碼',
   },
 } satisfies Record<Locale, Record<string, string>>
 

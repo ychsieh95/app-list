@@ -9,6 +9,7 @@ import { CategoryFilter } from './components/CategoryFilter'
 import { AppCard } from './components/AppCard'
 import { AppRow } from './components/AppRow'
 import { FeedbackButton } from './components/FeedbackButton'
+import { Footer } from './components/Footer'
 import type { Platform } from './types/app'
 
 const VIEW_STORAGE_KEY = 'app-list.view'
@@ -90,6 +91,7 @@ function App() {
         )}
       </main>
 
+      <Footer />
       <FeedbackButton />
     </div>
   )
