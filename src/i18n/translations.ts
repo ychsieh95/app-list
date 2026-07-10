@@ -20,6 +20,7 @@ export const translations = {
     themeSystem: 'System',
     footerCopyright: '© {year} App List',
     footerSource: 'View source on GitHub',
+    footerLicense: 'MIT License',
   },
   'zh-tw': {
     siteTitle: '應用程式清單',
@@ -40,6 +41,7 @@ export const translations = {
     themeSystem: '系統',
     footerCopyright: '© {year} 應用程式清單',
     footerSource: '在 GitHub 上查看原始碼',
+    footerLicense: 'MIT 授權條款',
   },
 } satisfies Record<Locale, Record<string, string>>
 
