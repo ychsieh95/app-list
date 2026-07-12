@@ -2,7 +2,6 @@
   "id": "bottles",
   "name": "Bottles",
   "url": "https://usebottles.com/",
-  "icon": "🍾",
   "tags": ["kubuntu", "windows-apps", "wine", "open-source"],
   "platforms": ["kubuntu"],
   "category": {

@@ -2,7 +2,6 @@
   "id": "vscode",
   "name": "Visual Studio Code",
   "url": "https://code.visualstudio.com",
-  "icon": "💻",
   "tags": ["development", "editor"],
   "platforms": ["windows", "kubuntu"],
   "category": {

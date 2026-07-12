@@ -2,7 +2,6 @@
   "id": "stirling-pdf",
   "name": "Stirling PDF",
   "url": "https://www.stirlingpdf.com/",
-  "icon": "📄",
   "tags": ["windows", "kubuntu", "pdf", "open-source"],
   "platforms": ["windows", "kubuntu"],
   "category": {

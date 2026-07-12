@@ -2,7 +2,6 @@
   "id": "telegram",
   "name": "Telegram",
   "url": "https://telegram.org",
-  "icon": "https://cdn.simpleicons.org/telegram",
   "tags": ["messaging", "chat", "communication"],
   "platforms": ["windows", "kubuntu"],
   "category": {

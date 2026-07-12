@@ -2,7 +2,6 @@
   "id": "rclone",
   "name": "Rclone",
   "url": "https://rclone.org/",
-  "icon": "☁️",
   "tags": ["kubuntu", "cloud-storage", "sync", "open-source"],
   "platforms": ["kubuntu"],
   "category": {

@@ -2,7 +2,6 @@
   "id": "mobaxterm",
   "name": "MobaXterm",
   "url": "https://mobaxterm.mobatek.net/",
-  "icon": "🖥️",
   "tags": [
     "windows",
     "ssh",

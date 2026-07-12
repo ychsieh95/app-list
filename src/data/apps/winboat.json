@@ -2,7 +2,6 @@
   "id": "winboat",
   "name": "WinBoat",
   "url": "https://winboat.app/",
-  "icon": "🪟",
   "tags": ["kubuntu", "windows-apps", "virtualization", "open-source"],
   "platforms": ["kubuntu"],
   "category": {

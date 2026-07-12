@@ -2,7 +2,6 @@
   "id": "cpu-z",
   "name": "CPU-Z",
   "url": "https://www.cpuid.com/softwares/cpu-z.html",
-  "icon": "🔧",
   "tags": ["windows", "diagnostics", "hardware"],
   "platforms": ["windows"],
   "category": {
